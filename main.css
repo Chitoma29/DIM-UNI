@@ -1,0 +1,22 @@
+table, tr, td {
+    border: 1 solid black;
+    background-color: aqua;
+}
+body{
+    background-color: aqua;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    line-height: 1.5;
+    text-size-adjust: 2em;
+    max-width: 1200px;
+    padding: 50px;
+    text-align: justify;
+
+}
+h2{
+    text-decoration: underline;
+    text-decoration: aliceblue;
+}
+p{
+    text-indent: 0cqmax;
+}
